@@ -21,45 +21,22 @@ The analysis has been categorized into the following sections:
 
 ## Overall Analysis 
 
+![REVENUE DASHBOARD](https://github.com/user-attachments/assets/ee616966-03bd-4bcb-9cb6-29a4fe4af7e9)
 
-![Screenshot 2024-08-11 130802](https://github.com/user-attachments/assets/087cead1-e8dd-4fd3-9c84-702b2e6f5bdc)
-
-
-## Seasional Analytics
-
-
-![Screenshot 2024-08-11 130845](https://github.com/user-attachments/assets/2d615817-bd2c-4aa6-afe2-c553ce959a87)
 
 
 
 
 ## Loss Analytics 
 
-![Screenshot 2024-08-11 130900](https://github.com/user-attachments/assets/49b1b83c-3a82-4938-a2a3-b66e6fa032a2)
+![LR ANALYSIS](https://github.com/user-attachments/assets/11c04757-5faa-4661-9112-98de4c1b2018)
 
 
 
-
-## Tooltip
-
-
-![Screenshot 2024-08-11 163419](https://github.com/user-attachments/assets/318e6c6a-d3a7-4175-8510-71d2c3595052)
+## Cancellation rate and Occupation rate,Rating Analytics
+![OR,CR ANALYSIS](https://github.com/user-attachments/assets/3f4ab10f-49c9-42a0-839b-b4d2bf8c3063)
 
 
-## Seasional Analytics With ToolTip
-![Screenshot 2024-08-11 163538](https://github.com/user-attachments/assets/9b405127-6338-4c9d-991a-597cefb9dc82)
-
-## Loss Analytics With ToolTip
-![Screenshot 2024-08-11 163440](https://github.com/user-attachments/assets/fdc3f572-a34d-456f-9547-a370f472b28c)
-
-
-
-## Tooltip Implementation
-
-
-The tooltip feature in the "Loss Analytics" and "Seasonal Trendz" reports provides a quick and interactive way to gain insights into revenue metrics. By hovering over any visual in these reports, you can instantly view both the overall generated revenue and the corresponding loss revenue. This functionality allows users to efficiently analyze and compare revenue figures across different dimensions such as property name, room category, and time periods without navigating through multiple charts. This tool enhances data exploration by making key financial metrics easily accessible at a glance.
-
-Note : This Tooltip is added for all charts in Both Seasional Trendz and Loss Analytics
 
 ## Contribution Guidelines
 
